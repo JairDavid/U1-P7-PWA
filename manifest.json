@@ -1,7 +1,7 @@
 {
     "name": "Notas - PWA",
     "short_name": "notas",
-    "start_url": "/index.html",
+    "start_url": "./index.html",
     "display": "standalone",
     "description": "The app that helps you find the best food in town!",
     "orientation":"portrait",
